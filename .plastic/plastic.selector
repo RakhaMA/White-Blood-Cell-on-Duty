@@ -1,0 +1,4 @@
+repository "Capstone Project 27@CapstoneProject27@cloud"
+  path "/"
+    br "/main"
+    co "/main"
